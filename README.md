@@ -38,3 +38,9 @@ JavaScript - API Fetch & Map Rendering
 MapBox API - Geocoding & Map Display
 
 Now MapBox Geocoding Tool is not only functional but also aesthetically pleasing with stunning background effects that bring it to life. 🚀
+
+## 📸 Screenshot
+
+Here’s a preview of the MapBox Geocoding Tool in action:
+
+![MapBox Geocoding Tool](images/Geocoder.png)
